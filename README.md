@@ -10,16 +10,19 @@ Safe Modules are smart contracts that enhance Safe contracts by adding functiona
 
 ## Quickstart: Make your first Safe Module
 
-## Official Providers
+## Official Modules
 
-- TODO
+- [4337 Module](https://github.com/safe-global/safe-modules/tree/f0af05c5817fe69291a801c150b3bb8de4da5f7f/modules/4337) - Safe Module/Fallback handler for ERC-4337 support.
+- [Allowance Module](https://github.com/safe-global/safe-modules/tree/f0af05c5817fe69291a801c150b3bb8de4da5f7f/modules/allowances) - Registry for managing ERC20 and Ether transfer allowances.
+- [Passkey Module](https://github.com/safe-global/safe-modules/tree/f0af05c5817fe69291a801c150b3bb8de4da5f7f/modules/passkey) - Passkey signature verifier that can be used as Safe signer.
+- [Recovery Module](https://github.com/safe-global/safe-modules/tree/f0af05c5817fe69291a801c150b3bb8de4da5f7f/modules/recovery) - Social recovery module for Safe accounts.
 
 ## Third Party Repos
 
 ### Useful Tools & Libraries
 
 - [dSafe Registry](https://twitter.com/daoism_systems) - A decentralized registry for Safe smart contracts, enabling alternative interaction methods.
-- [Reference SDK for ERC-4337 with Safe{Core} - by Candide](https://www.candide.dev/) - Open-source SDK for developing Safe-based smart accounts.
+- [Reference SDK for ERC-4337 with Safe{Core}](https://www.candide.dev/) - Open-source SDK for developing Safe-based smart accounts by Candide.
 - [Fluidkey](https://fluidkey.com) - Privacy solution using stealth addresses for scalable privacy across EVM-compatible chains.
 - [Cannon](https://usecannon.com) - A DevOps tool for protocol deployments and upgrades on EVM-compatible chains.
 
@@ -33,7 +36,6 @@ Safe Modules are smart contracts that enhance Safe contracts by adding functiona
 
 ### Research & Governance
 
-- [Challenges and Opportunities of Distributed Cryptography for Safe] - Research project exploring distributed signing protocols for smart contract wallets.
 - [How to responsibly incentivize multisig signers?](https://github.com/bartosjiri/multisig-signer-incentives) - Community research project on incentivizing multisignature wallet signers.
 - [Liveness Module](https://github.com/defi-wonderland/safe-liveness) - Enhances cross-chain user experience by syncing smart wallet configurations.
 - [Safe Explorer](https://safescanner.xyz) - User-friendly block explorer for Safe ecosystem.
@@ -56,4 +58,4 @@ Safe Modules are smart contracts that enhance Safe contracts by adding functiona
 
 ## Video Explanation
 
-- TODO
+- [Create your own Safe Module](https://www.youtube.com/watch?v=5qZ8z2JWQ5o) - Gnosis Safe 🛠 Safe modding 101: Create your own Safe module
