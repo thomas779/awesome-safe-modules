@@ -6,7 +6,7 @@ Safe Modules are smart contracts that enhance Safe contracts by adding functiona
 
 ## Community: Ask for help & meet other Safe builders
 
-- [@Safe{Builders}](https://t.me/SafeBuilders) Telegram group
+- @Safe{Builders} Telegram group
 
 ## Quickstart: Make your first Safe Module
 
