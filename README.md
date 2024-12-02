@@ -28,6 +28,7 @@ Safe Modules are smart contracts that enhance Safe contracts by adding functiona
 
 ### Plugins & Extensions
 
+- [Palmera Safe Hierarchical Structure](https://docs.palmeradao.xyz/palmera-module-safe-hierarchical-structure) - Enables the creation of hierarchical structures where a Safe can have powers over other Safes.
 - [BrahmaFi Console](https://www.brahma.fi/) - Unifies on-chain custody with efficient execution and policy-driven delegation.
 - [Eternal Safe](https://github.com/eternalsafe/wallet) - A decentralized Safe{Wallet} and web app hosted on IPFS.
 - [Extensible Fallback Handler + Signature Verifier Mixer](https://github.com/rndlabs/safe-contracts) - Framework for building function handlers or signature verifiers.
